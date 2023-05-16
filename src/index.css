@@ -85,7 +85,7 @@
       display: none;
     }
     #cards-our-team {
-      margin-left: 4%;
+      margin-left: 3%;
     }
     #card-two-team {
       @apply mt-10;
