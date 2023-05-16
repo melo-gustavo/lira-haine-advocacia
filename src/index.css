@@ -97,12 +97,8 @@
       z-index: 1000;
       margin-top: -200px;
     }
-    #text1-home, #text3-home {
+    #text1-home, #text2-home, #text3-home {
       display: none;
-    }
-    #text2-home {
-      color: black;
-      font-size: 25px;
     }
   }
 

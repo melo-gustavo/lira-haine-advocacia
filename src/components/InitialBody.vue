@@ -3,7 +3,7 @@
 
 <template>
     <div class="" id="home"
-    style="background-image: url('/img/escritorio.mp4'); background-repeat: no-repeat; background-position: right;">
+    style="background-image: url('/img/escritorio.mp4'); background-repeat: no-repeat; background-position: center;">
     <video autoplay muted loop>
         <source src="/img/escritorio.mp4" type="video/mp4" />
     </video>
@@ -11,7 +11,7 @@
         <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
             <p class="uppercase tracking-loose w-full" id="text1-home">Está precisando de auxílio ?</p>
             <h1 class="my-4 lg:text-5xl sm:text-sm font-bold leading-tight" id="text2-home">
-                Lira & Haine <br id="br-home"> Advocacia
+                Lira & Haine Advocacia
             </h1>
             <p class="leading-normal text-2xl mb-8" id="text3-home">
                 Temos diversas soluções para oferecer. Entre em contato já com um dos nossos profissionais e resolva
