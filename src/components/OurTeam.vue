@@ -18,7 +18,7 @@
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">Emilly Haine</div>
                         <p class="text-gray-700 text-base">
-                            Advogada
+                            Assessora Jurídica
                         </p>
                     </div>
                     <div class="px-6 pt-4 pb-2 flex justify-center">
