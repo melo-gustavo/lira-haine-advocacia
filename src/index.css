@@ -90,6 +90,36 @@
     #card-two-team {
       @apply mt-10;
     }
+    #home {
+      height: 250px;
+    }
+    #home-text {
+      z-index: 1000;
+      margin-top: -200px;
+    }
+    #text1-home, #text3-home {
+      display: none;
+    }
+    #text2-home {
+      color: black;
+      font-size: 25px;
+    }
+  }
+
+  @media only screen and (min-width: 1280px) {
+    #home {
+      height: 800px;
+    }
+    #home-text {
+      z-index: 1000;
+      margin-top: -650px;
+    }
+    #br-home {
+      display: none;
+    }
+    #text1-home, #text2-home, #text3-home {
+      color: black;
+    }
   }
 
   

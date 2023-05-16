@@ -162,8 +162,5 @@ const closeMenu = () => {
   #button-menu {
     @apply mt-10;
   }
-  /* #text-desktop {
-    display: none;
-  } */
 }
 </style>
