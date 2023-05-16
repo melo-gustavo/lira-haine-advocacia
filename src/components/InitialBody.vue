@@ -2,28 +2,26 @@
 </script>
 
 <template>
-    <div class="pt-24" id="home"
-        style="background-image: url('/img/justice2.jpg');  background-size: cover; height: 550px;">
-        <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
-            <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
-                <p class="uppercase tracking-loose w-full">Está precisando de auxílio ?</p>
-                <h1 class="my-4 text-5xl font-bold leading-tight">
-                    Lira & Haine Advocacia
-                </h1>
-                <p class="leading-normal text-2xl mb-8">
-                    Temos diversas soluções para oferecer. Entre em contato já com um dos nossos profissionais e resolva sua
-                    situação!
-                </p>
-                <!-- <a href="#contact">
-          <button
-            class="hover:bg-[#DCBD85] mx-auto lg:mx-0 bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-            Entre em contato
-          </button>
-        </a> -->
-            </div>
+    <div class="" id="home"
+    style="background-image: url('/img/escritorio.mp4'); background-repeat: no-repeat; background-position: right;">
+    <video autoplay muted loop>
+        <source src="/img/escritorio.mp4" type="video/mp4" />
+    </video>
+    <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center" id="home-text">
+        <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
+            <p class="uppercase tracking-loose w-full" id="text1-home">Está precisando de auxílio ?</p>
+            <h1 class="my-4 lg:text-5xl sm:text-sm font-bold leading-tight" id="text2-home">
+                Lira & Haine <br id="br-home"> Advocacia
+            </h1>
+            <p class="leading-normal text-2xl mb-8" id="text3-home">
+                Temos diversas soluções para oferecer. Entre em contato já com um dos nossos profissionais e resolva
+                sua
+                situação!
+            </p>
         </div>
     </div>
-    <div class="relative -mt-12 lg:-mt-24">
+        </div>
+        <div class="relative -mt-12 lg:-mt-24">
         <svg viewBox="0 0 1428 174" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink">
             <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -48,5 +46,4 @@
     </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>

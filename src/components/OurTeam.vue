@@ -2,7 +2,7 @@
 
 <template>
     <section class="bg-white py-8 flex flex-wrap justify-center items-center" id="our-team">
-        <div class="container mx-auto px-2 pt-4 pb-12 text-gray-800">
+        <div class="container mx-auto pt-4 pb-12 text-gray-800">
             <h2 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
                 Nosso Time
             </h2>
