@@ -3,7 +3,7 @@
 
 <template>
     <div class="" id="home"
-    style="background-image: url('/img/escritorio.mp4'); background-repeat: no-repeat; background-position: center;">
+    style="background-image: url('/img/escritorio.mp4'); background-repeat: no-repeat; background-size: cover;">
     <video autoplay muted loop>
         <source src="/img/escritorio.mp4" type="video/mp4" />
     </video>
