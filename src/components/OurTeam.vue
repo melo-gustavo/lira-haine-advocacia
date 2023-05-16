@@ -13,12 +13,12 @@
                 <div class="max-w-sm rounded overflow-hidden shadow-xl shadow-[#DCBD85] px-12">
                     <div class="flex justify-center mt-5">
                         <img class="w-[100px] h-[100px] shadow-lg shadow-[#DCBD85] rounded-full mx-auto my-auto"
-                            src="/img/emilly.jpeg" alt="Avatar of Jonathan Reinink" />
+                            src="/img/emilly.jpeg" alt="Avatar Emillt Haine" />
                     </div>
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">Emilly Haine</div>
                         <p class="text-gray-700 text-base">
-                            Advogada
+                            Assessora Jurídica
                         </p>
                     </div>
                     <div class="px-6 pt-4 pb-2 flex justify-center">
@@ -39,7 +39,7 @@
                 <div class="max-w-sm rounded overflow-hidden shadow-xl shadow-[#DCBD85] px-10" id="card-two-team">
                     <div class="flex justify-center mt-5">
                         <img class="w-[100px] h-[100px] shadow-lg shadow-[#DCBD85] rounded-full mx-auto my-auto"
-                            src="/img/jaque.png" alt="Avatar of Jonathan Reinink" />
+                            src="/img/jaque.png" alt="Avatar of Jaqueline Lira" />
                     </div>
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">Jaqueline Lira</div>
