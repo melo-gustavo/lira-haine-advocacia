@@ -22,7 +22,7 @@ const closeMenu = () => {
               <!-- logo -->
               <div class="logo flex items-center justify-between gap-3">
                 <RouterLink :to="{ name: 'Home' }" class="ml-3">
-                  <a href="https://flowbite.com/" class="flex items-center">
+                  <a href="#" class="flex items-center">
                     <div>
                       <img src="/img/logo2.png" class="h-[60px] mr-2 w-[60px]" alt="Logo" />
                     </div>

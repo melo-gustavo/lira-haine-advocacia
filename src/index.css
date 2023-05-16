@@ -81,6 +81,15 @@
     #app {
         text-align: center;
       }
+    #template_separete {
+      display: none;
+    }
+    #cards-our-team {
+      margin-left: 4%;
+    }
+    #card-two-team {
+      @apply mt-10;
+    }
   }
 
   

@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-    <section class="bg-white py-8" id="our-team">
+    <section class="bg-white py-8 flex flex-wrap justify-center items-center" id="our-team">
         <div class="container mx-auto px-2 pt-4 pb-12 text-gray-800">
             <h2 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
                 Nosso Time
@@ -9,7 +9,7 @@
             <div class="w-full mb-4">
                 <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
             </div>
-            <div class="flex flex-col justify-around sm:flex-row pt-12 my-12 sm:my-4">
+            <div class="flex flex-col justify-around sm:flex-row pt-12 my-12 sm:my-4" id="cards-our-team">
                 <div class="max-w-sm rounded overflow-hidden shadow-xl shadow-[#DCBD85] px-12">
                     <div class="flex justify-center mt-5">
                         <img class="w-[100px] h-[100px] shadow-lg shadow-[#DCBD85] rounded-full mx-auto my-auto"
@@ -64,7 +64,7 @@
         </div>
     </section>
 
-    <div class="relative -mt-12 lg:10 z-100">
+    <div class="relative -mt-12 lg:10 z-100" id="template_separete">
         <svg viewBox="0 0 1428 174" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink">
             <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

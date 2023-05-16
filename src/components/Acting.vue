@@ -19,9 +19,9 @@
                         <div class="w-full font-bold text-xl text-gray-800 px-6">
                             Direito de Família
                         </div>
-                        <p class="text-gray-800 text-base px-6 mt-5">
-                            É um conjunto de leis, normas e regulamentos que garantem proteção aos trabalhadores em relação
-                            às condições de trabalho.
+                        <p class="text-gray-800 text-base px-6 mt-5 mb-5">
+                            É o ramo do Direito que se ocupa das relações jurídicas que surgem entre as pessoas em
+                            decorrência do casamento, união estável, filiação, adoção e outros vínculos familiares.
                         </p>
                     </a>
                 </div>
@@ -35,9 +35,9 @@
                         <div class="w-full font-bold text-xl text-gray-800 px-6">
                             Direito do Trabalho
                         </div>
-                        <p class="text-gray-800 text-base px-6 mt-5">
-                            É um ramo do direito que visa proteger os interesses e direitos dos consumidores em relação a
-                            produtos e serviços que adquirem no mercado.
+                        <p class="text-gray-800 text-base px-6 mt-5 mb-5">
+                            É um conjunto de leis, normas e regulamentos que garantem proteção aos trabalhadores em relação
+                            às condições de trabalho, salário, jornada de trabalho, saúde e segurança no trabalho.
                         </p>
                     </a>
                 </div>
@@ -52,8 +52,8 @@
                             Direito do Consumidor
                         </div>
                         <p class="text-gray-800 text-base px-6 mb-5 mt-5">
-                            É o ramo do Direito que se ocupa das relações jurídicas que surgem entre as pessoas em
-                            decorrência do casamento, união estável, filiação, adoção e outros vínculos familiares.
+                            É um ramo do direito que visa proteger os interesses e direitos dos consumidores em relação a
+                            produtos e serviços que adquirem no mercado.
                         </p>
                     </a>
                 </div>
@@ -67,7 +67,7 @@
                         <div class="w-full font-bold text-xl text-gray-800 px-6">
                             Mandado de Segurança <small><br>(Carreira Policial)</small>
                         </div>
-                        <p class="text-gray-800 text-base px-6 mt-3">
+                        <p class="text-gray-800 text-base px-6 mt-3 mb-5">
                             O mandado de segurança pode ser utilizado para garantir direitos como a posse em cargos,
                             a promoção, a remuneração adequada, entre outros.
                         </p>
@@ -76,7 +76,7 @@
             </div>
         </div>
     </section>
-    <div class="relative -mt-12 lg:10 z-100">
+    <div class="relative -mt-12 lg:10 z-100" id="template_separete">
         <svg viewBox="0 0 1428 174" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink">
             <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

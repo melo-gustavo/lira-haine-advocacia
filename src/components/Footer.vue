@@ -39,9 +39,9 @@
                 Lira & Haine Advocacia
             </h3>
             <div class="address">
-                <p><strong>Endereço:</strong> Rua Rua doTinguí, nº 11, sala 04, Salvador/BA, 40040-380</p>
+                <p><strong>Endereço:</strong> Rua do Tinguí, nº 11, sala 04, Salvador/BA, 40040-380</p>
             </div>
-            <div class="email mt-3">
+            <div class="email mt-4">
                 <p><strong>Email:</strong>
                     <span class="undeline text-white">
                         <a href="mailto:liraehaine.adv@gmail.com?subject=Desejo consultar mais informações" target="_blank">
